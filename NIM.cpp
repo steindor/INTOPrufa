@@ -72,7 +72,7 @@ void spila( )
 
 	hrugufjoldi = ( (rand( ) % 8 ) + 2 );
 	cout << "Vid spilum med " << hrugufjoldi << " hrugur. " << endl;
-
+	cout << "Steindor Oddur Ellertsson" << endl;
 	for ( int i = 0; i < hrugufjoldi; i++ )
 	{
 		hruga[ i ]=( ( rand( ) % 14 ) + 1 );
